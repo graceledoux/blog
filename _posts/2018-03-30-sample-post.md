@@ -4,4 +4,5 @@ title: Starting Up
 
 
 This is my first post.
-<img src="images/me.png">
+
+<img src="posts/images/me.png">
